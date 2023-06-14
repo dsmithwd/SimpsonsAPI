@@ -1,0 +1,16 @@
+.body {
+  font-family: "Oswald", sans-serif;
+}
+
+.character {
+  display: flex;
+  justify-content: space-between;
+}
+
+.character img {
+  width: 150px;
+}
+
+.Left {
+  order: -1;
+}
